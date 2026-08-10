@@ -1,5 +1,5 @@
 # Sobreviv-ncia-no-Titanic
-# Primeiro projeto meu na área de dados.
+# Primeiro projeto Na Área de dados
 
 import pandas as pd
 
